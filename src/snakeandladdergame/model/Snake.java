@@ -1,4 +1,4 @@
-package com.machinecoding.model;
+package snakeandladdergame.model;
 
 public class Snake {
 

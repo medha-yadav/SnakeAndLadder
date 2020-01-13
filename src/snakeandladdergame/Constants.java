@@ -1,4 +1,4 @@
-package com.machinecoding;
+package snakeandladdergame;
 
 public interface Constants {
 

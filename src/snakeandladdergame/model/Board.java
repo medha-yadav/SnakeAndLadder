@@ -1,10 +1,8 @@
-package com.machinecoding.model;
+package snakeandladdergame.model;
 
-
-import com.machinecoding.Constants;
+import snakeandladdergame.Constants;
 
 import java.util.List;
-
 public class Board {
 
     int[] board;

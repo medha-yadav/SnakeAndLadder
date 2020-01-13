@@ -1,6 +1,6 @@
-package com.machinecoding.service;
+package snakeandladdergame.service;
 
-import com.machinecoding.Constants;
+import snakeandladdergame.Constants;
 
 import java.util.Random;
 

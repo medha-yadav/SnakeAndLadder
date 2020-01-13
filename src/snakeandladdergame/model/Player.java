@@ -1,4 +1,4 @@
-package com.machinecoding.model;
+package snakeandladdergame.model;
 import java.util.UUID;
 
 public class Player {

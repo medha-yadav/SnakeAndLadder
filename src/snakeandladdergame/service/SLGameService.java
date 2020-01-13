@@ -1,6 +1,6 @@
-package com.machinecoding.service;
+package snakeandladdergame.service;
 
-import com.machinecoding.model.*;
+import snakeandladdergame.model.*;
 
 import java.util.ArrayDeque;
 import java.util.List;

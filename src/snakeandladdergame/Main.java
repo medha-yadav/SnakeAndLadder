@@ -1,9 +1,10 @@
-package com.machinecoding;
+package snakeandladdergame;
 
-import com.machinecoding.model.Ladder;
-import com.machinecoding.model.Player;
-import com.machinecoding.model.Snake;
-import com.machinecoding.service.*;
+
+import snakeandladdergame.model.Ladder;
+import snakeandladdergame.model.Player;
+import snakeandladdergame.model.Snake;
+import snakeandladdergame.service.SLGameService;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +14,6 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-
         List<Player> players = new ArrayList<Player>();
 
 /*      TO READ PLAYER DETAILS
