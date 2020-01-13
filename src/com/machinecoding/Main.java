@@ -26,8 +26,8 @@ public class Main {
             players.add(new Player(s.next()));
         }*/
 
-        players.add(new Player("Alpha"));
-        players.add(new Player("Beta"));
+        players.add(new Player("Player 1"));
+        players.add(new Player("Player 2"));
 
         List<Snake> snakes = new ArrayList<Snake>();
 
