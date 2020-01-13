@@ -11,7 +11,6 @@ Different ways to run the application after importing :
     ```
     java -jar jar_file_location
     java -jar ./out/artifacts/SnakeAndLadder_jar/SnakeAndLadder.jar
-    
 
 3. Run using docker image ( only prerequisite : Docker should be installed on the system ) & exceute following commands :
 
